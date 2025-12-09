@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CodeMind - AI Coding Platform",
+  "description": "A LeetCode-style coding platform powered by Gemini. Supports Python, Java, and JavaScript with AI-simulated code execution and judging.",
+  "requestFramePermissions": []
+}
